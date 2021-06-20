@@ -13,7 +13,7 @@ function App() {
     })}</>)
     }
     let morenums="Battleship,1,2,3,4,5,6,7,8,9,10".split(",")
-let abc="a,b,c,d,e,f,g,h,i,j".split(",")
+let abc="A,B,C,D,E,F,G,H,I,J".split(",")
   return (
     <div className="App">
           <h2>Your board</h2>

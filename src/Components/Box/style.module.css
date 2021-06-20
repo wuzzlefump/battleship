@@ -1,5 +1,6 @@
 .box{
     border: 1px black solid;
+    background-color: whitesmoke;
 }
 
 .boxRed{
@@ -10,5 +11,5 @@
 
 .boxGreen{
     border: 1px black solid;
-    background-color: limegreen;
+    background-color: slategrey;
 }
