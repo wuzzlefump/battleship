@@ -1,0 +1,14 @@
+.box{
+    border: 1px black solid;
+}
+
+.boxRed{
+    border: 1px black solid;
+    background-color: lightcoral;
+    border-radius: 50%;
+}
+
+.boxGreen{
+    border: 1px black solid;
+    background-color: limegreen;
+}
